@@ -1,9 +1,4 @@
 {
-    "store.home": {
-      "blocks": [
-        "shelf"
-      ]
-    },
     "shelf": {
       "blocks": ["product-summary.shelf"],
       "props": {
@@ -31,5 +26,5 @@
         "product-identifier.summary",
         "product-summary-buy-button"
       ]
-    }
-  }
+}}
+  
