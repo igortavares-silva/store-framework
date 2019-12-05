@@ -23,7 +23,7 @@
     background-color: #EDCFD1;
     max-width: 1260px;
     margin: 0 auto;
-    padding: 0
+    padding: 0;
 }
 .infoCardHeadline--vintage {
     color: black;
@@ -40,7 +40,7 @@
 .infoCardContainer--metal {
     max-width: 1260px;
     margin: 0 auto;
-    padding: 0
+    padding: 0;
 }
 .infoCardHeadline--metal {
     color: black;
